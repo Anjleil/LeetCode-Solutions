@@ -1,4 +1,4 @@
-package AlgorithmsLeetCode_1;
+package AlgorithmsLeetCode_1.TwoPointers;
 
 import java.util.Arrays;
 

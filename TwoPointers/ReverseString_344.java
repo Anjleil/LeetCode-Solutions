@@ -1,4 +1,4 @@
-package AlgorithmsLeetCode_1;
+package AlgorithmsLeetCode_1.TwoPointers;
 
 public class ReverseString_344 {
     public static void main(String[] args) {
