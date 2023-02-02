@@ -2,6 +2,8 @@ package AlgorithmsLeetCode_1.TwoPointers;
 
 import Easy.ListNode;
 
+import java.util.Arrays;
+
 public class RemoveNthFromList_19 {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(1, new ListNode(2));
