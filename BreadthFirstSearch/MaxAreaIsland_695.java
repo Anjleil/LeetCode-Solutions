@@ -14,7 +14,10 @@ public class MaxAreaIsland_695 {
                         {0,0,0,0,0,0,0,1,1,1,0,0,0},
                         {0,0,0,0,0,0,0,1,1,0,0,0,0}})
         );
+
     }
+
+
 
     public int maxAreaOfIsland(int[][] grid) {
         int maxArea = 0, area = 0;
