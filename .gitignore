@@ -1,0 +1,5 @@
+# Inteleja IDEA
+.idea/
+
+# Finders Metadata MacOS System files
+.DS_Store
